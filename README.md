@@ -1,5 +1,4 @@
 # FAQ-CHATBOT
-It's FAQ chatbot for a company-Cloud counselage were BOT answers the queries of users related to Internship program(IP)
 
 Following prerequisites should be satisfied for running the BOT:
 1) Installation-
